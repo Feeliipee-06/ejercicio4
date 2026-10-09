@@ -1,4 +1,4 @@
-programacion 5,4
+programacion 5,4,7
 base de datos 2
 sistemas 10
 
